@@ -21,7 +21,7 @@ Step 2: extracting data from a page
 Step 3: crawling multiple pages
 	- notice that the top and bottom of each page has '>' that links to the next page of results,
 	<li class="next">
-    <a href="http://brickset.com/sets/year-2017/page-2">&#8250;</a>
+  	<a href="http://brickset.com/sets/year-2017/page-2">&#8250;</a>
   	</li>
   	li tag with the class of next, and an a tag inside with the link to the next page
 
