@@ -4,6 +4,9 @@ using Python and Scrapy
 To run:
  $ scrapy runspider scraper.py
 
+Output to a csv file:
+ $ scrapy runspider scraper.py -o output.csv
+
 Step 1: creating a basic scrapper
 	- systematically find and download web pages
 	- take those web and extract info from them
